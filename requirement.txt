@@ -1,0 +1,1 @@
+Recordar installar opencv tanto python y windows
